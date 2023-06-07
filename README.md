@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Funcoes assincronas com o flutter
+
+Nesse curso estarei aprendendo sobre funcoes assincronas em flutter
